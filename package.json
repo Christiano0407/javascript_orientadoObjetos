@@ -1,0 +1,22 @@
+{
+  "name": "javascript_orientadoobjetos",
+  "version": "1.0.0",
+  "description": "project javascript Oriented object",
+  "main": "src/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christiano0407/javascript_orientadoObjetos.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Chris04",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christiano0407/javascript_orientadoObjetos/issues"
+  },
+  "homepage": "https://github.com/Christiano0407/javascript_orientadoObjetos#readme"
+}
